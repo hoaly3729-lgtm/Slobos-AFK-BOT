@@ -8,7 +8,7 @@
   "server": {
     "ip": "ltins.aternos.me",
     "port": 41242,
-    "version": "1.21.1"
+    "version": "1.21.2"
   },
   "position": {
     "enabled": true,
